@@ -1,0 +1,14 @@
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\bin\Debug\net8.0\ConsonantApp.exe
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\bin\Debug\net8.0\ConsonantApp.deps.json
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\bin\Debug\net8.0\ConsonantApp.runtimeconfig.json
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\bin\Debug\net8.0\ConsonantApp.dll
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\bin\Debug\net8.0\ConsonantApp.pdb
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\obj\Debug\net8.0\ConsonantApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\obj\Debug\net8.0\ConsonantApp.AssemblyInfoInputs.cache
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\obj\Debug\net8.0\ConsonantApp.AssemblyInfo.cs
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\obj\Debug\net8.0\ConsonantApp.csproj.CoreCompileInputs.cache
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\obj\Debug\net8.0\ConsonantApp.dll
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\obj\Debug\net8.0\refint\ConsonantApp.dll
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\obj\Debug\net8.0\ConsonantApp.pdb
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\obj\Debug\net8.0\ConsonantApp.genruntimeconfig.cache
+C:\Users\boydd\OneDrive\Desktop\ConsonantApp\obj\Debug\net8.0\ref\ConsonantApp.dll
